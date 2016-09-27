@@ -1,3 +1,3 @@
-'use strict'
+'use strict';
 
-angule.module('signup',['ngRoute']);
+angular.module('signUp', ['ngAnimate', 'ngRoute']);

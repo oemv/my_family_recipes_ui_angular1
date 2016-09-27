@@ -4,7 +4,5 @@
 angular.module('myFamilyRecipes', [
   'ngAnimate',
   'ngRoute',
-  'signup',
-  'login',
-  'recipeList',
+  'signUp'
 ]);
